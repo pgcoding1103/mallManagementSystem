@@ -1,5 +1,4 @@
-# mall_background_management_system
-
+# 商城后台管理系统
 ## Project setup
 ```
 yarn install
